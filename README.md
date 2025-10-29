@@ -1,2 +1,2 @@
 # dream-journal
-Full-stack dream journaling app with React, Flask, and SQLite
+A full-stack journaling platform for recording recurring dream themes with secure user authentication and persistent data storage.
